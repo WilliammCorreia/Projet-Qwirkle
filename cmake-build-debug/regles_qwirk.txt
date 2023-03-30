@@ -1,0 +1,47 @@
+regles du jeu qwirkle projet:
+
+Quest-ce que Qwirkle ?
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Qwirkle est un jeu de societe de strategie, le jeu se compose de tuiles colorees et geometriques,
+ qui peuvent etre combinees pour creer des lignes de tuiles qui ont soit la meme couleur ou la meme forme.
+ Les joueurs marquent des points en creant ces lignes, et celui qui marque le plus de points a la fin de la partie gagne.
+ Il est adapte pour les joueurs de tous ages et peut etre joue de 2 a 4 joueurs pour notre version.
+
+Quelles sont les regles et les particularites de notre jeu ?
+
+Tout dabord, le jeu est base sur une zone de jeu de 12 x 26 cases et il existe deux modes:
+
+- Mode normal : 108 tuiles pour 6 formes et 6 couleurs. Chaque forme est donc presente 3 fois dans une meme couleur dans la pioche.
+
+- Mode degrade : 36 tuiles pour 6 formes et 6 couleurs. Chaque forme nest presente qu une
+fois dans une meme couleur dans la pioche.
+
+Chaque joueur au debut de la partie se verra attribuer 6 tuiles aleatoirement parmi les tuiles de la pioche selon le mode 
+(36 pour le mode degrade et 108 pour le mode normal).
+
+Les regles de Qwirkle sont assez simples.
+Le but du jeu est de placer des tuiles de couleur et de forme differentes sur le plateau de jeu 
+et creer des lignes de tuiles qui ont soit la meme couleur ou la meme forme mais pas les deux en meme temps. 
+Les tuiles peuvent etre placees soit horizontalement ou verticalement, mais pas en diagonale. 
+Chaque fois qu un joueur cree une ligne de tuiles qui ont toutes la meme couleur ou la meme forme, il marque des points. 
+Le nombre de points marques dépend du nombre de tuiles dans la ligne. 
+Le joueur qui marque le plus de points a la fin de la partie est le gagnant.
+
+Voici quelque specificitees: 
+
+Il est possible pour les joueurs de : 
+
+1. Ajouter une tuile a une ligne ou à une colonne. Lordinateur masque les tuiles restantes sur le
+pupitre et pioche une tuile dans la reserve pour en avoir à nouveau six tuiles sur le pupitre du joueur.
+
+2. Ajouter deux tuiles ou plus a une ligne (ou colonne). Toutes les tuiles jouees a partir de la
+main du joueur doivent partager une caracteristique, a savoir la couleur ou la forme. Les tuiles du
+joueur doivent toujours etre posees sur la meme ligne (ou colonne) (il se peut qu elles ne se touchent
+pas). Ensuite, lordinateur masque les tuiles restantes sur le pupitre et pioche une ou plusieurs tuiles
+dans la reserve pour en avoir a nouveau six sur le pupitre du joueur.
+
+3. Echanger tout ou partie des tuiles de sa main contre differentes tuiles de la reserve, et passer
+son tour (sans jouer de tuile).
+
